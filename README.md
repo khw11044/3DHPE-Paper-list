@@ -7,7 +7,6 @@
 
 <https://paperswithcode.com/dataset/human3-6m>
 
-![fig1](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/32afc7c3-3a66-4813-9e9b-736354a6df26/Untitled.png)
 
 ![fig2](https://user-images.githubusercontent.com/831215/47666702-83f82f80-dba4-11e8-89b8-9fd029189ba2.png)
 
