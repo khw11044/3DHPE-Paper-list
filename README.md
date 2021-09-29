@@ -184,4 +184,4 @@ CVPR 2019
 [BodyPoseNet](https://eehoeskrap.tistory.com/564)
 2D pose estimation 
 
-[Canonical](Canonical Capsules: Unsupervised Capsules in Canonical Pose)
+[Canonical Capsules: Unsupervised Capsules in Canonical Pose](https://arxiv.org/pdf/2012.04718.pdf)
